@@ -146,3 +146,36 @@ body{
     font-size: 15px;
     color: #606264;
 }
+
+.qsection{
+    display: flex;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+    margin-top: 90px; 
+}
+
+.qtext{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 60px;
+    
+}
+
+.quote{
+    color:#1F2937;
+    font-size: 36px;
+    width: 800px;
+    height: 50px;
+    font-weight: lighter;
+}
+
+.qname{
+    margin-left: 530px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #1F2937;
+
+}
